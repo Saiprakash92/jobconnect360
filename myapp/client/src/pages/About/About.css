@@ -1,0 +1,20 @@
+.about-img{
+    height: 60px;
+    width: 150px;
+}
+/* .box-about{
+    width: 1100px;
+    margin-bottom: 250px;
+} */
+@media only screen and (max-width:576px) {
+    .box-about{
+       
+      
+       
+    }
+ }
+  @media only screen and (min-width: 577px) and (max-width: 992px) {
+     .about{
+       
+     }
+  } 

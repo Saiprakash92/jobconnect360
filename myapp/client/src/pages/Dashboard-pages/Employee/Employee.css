@@ -1,0 +1,21 @@
+.employee-card {
+  border: 1px solid transparent;
+  border-image: linear-gradient(to top, #3b82f6 0%, #4f46e5 100%);
+  border-image-slice: 1;
+  background-color: transparent;
+  backdrop-filter: blur(10px);
+  padding: 25px;
+}
+
+.employee-options {
+  opacity: 0;
+  transition: 0.8s;
+}
+
+.employee-card:hover>.employee-options {
+  opacity: 0.9;
+}
+
+.employee-card:hover>.you-badge {
+  display: none;
+}

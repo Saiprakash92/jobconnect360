@@ -1,0 +1,15 @@
+[
+    {
+        "name":"jhon doe",
+        "designation":"front end developer",
+        "email":"jhon@gmail.com"
+        
+    },
+    {
+        "name":"tom cruise",
+        "designation":"tester",
+        "email":"tom@gmail.com"
+        
+    }
+   
+]
